@@ -1,2 +1,1 @@
-# mochila-de-viagem
-Curso de Javascript da Alura 
+# alura-armazenando-na-web
